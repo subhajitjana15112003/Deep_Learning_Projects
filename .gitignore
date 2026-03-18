@@ -1,0 +1,16 @@
+# Datasets (very important)
+*.csv
+*.gz
+*.zip
+*.tar
+
+# Ignore folders
+Data/
+
+# Jupyter files
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Python cache
+__pycache__/
+*.pyc
